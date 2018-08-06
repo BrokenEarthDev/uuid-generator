@@ -1,6 +1,7 @@
-# uuid-generator
 # What is the UUID Generator? 
 The uuid generator is not only a uuid generator. The uuid generator generates a random String, Integer, Long , and UUID with a specified character count and many more.
+## How can I get it?
+To get it, go to the <a href="https://github.com/BrokenEarthDev/uuid-generator/releases/tag/v1.0">releases section in github</a>
 # Using the UUID Generator:
 ## Setting up:
 ```java
@@ -35,6 +36,3 @@ These are the options from the **<a href="https://gitlab.com/BrokenEarth/uuid-ge
   <li><strong>setMinimumCharacterCount</strong>: Sets the minimum character count</li>
   <li><strong>setMaximumCharacterCount</strong>: Sets the maximum character count</li>
 </ol>
-
-### How can I report issues?
-You can report issues **<a href="https://gitlab.com/BrokenEarth/uuid-generator/issues">here</a>**
