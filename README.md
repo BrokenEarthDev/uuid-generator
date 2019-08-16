@@ -1,5 +1,5 @@
 # What is the UUID Generator? 
-The uuid generator is not only a uuid generator. The uuid generator generates a random String, Integer, Long , and UUID with a specified character count and many more.
+The uuid generator is not only a uuid generator. The uuid generator generates a random String, Integer, Long, and UUID with a specified character count and other settings.
 ## How can I get it?
 To get it, go to the <a href="https://github.com/BrokenEarthDev/uuid-generator/releases/tag/v1.0">releases section in github</a>
 # Using the UUID Generator:
